@@ -1,2 +1,4 @@
 # Clueless
-My second repositry
+Right now, dont know whats going on
+
+Eventually i will
